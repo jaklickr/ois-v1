@@ -1,7 +1,8 @@
 public class Gravitacija {
 
-    public static void main(String[] args) {
-        System.out.println("OIS je zakon!");
+    public static void izpis(double v, double a) {
+        System.out.println(v);
+        System.out.println(a);
     }
 
 }
